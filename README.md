@@ -7,6 +7,7 @@ Currently looking for internship opportunities:
 https://www.linkedin.com/in/jerryyga0/
 
 Email: jerryygao@gmail.com
+
 Discord: jxrry#7143
 
 
