@@ -4,7 +4,7 @@ Hi, I’m Jerry
 
 Currently looking for internship opportunities:
 
-https://www.linkedin.com/in/jerryyga0/
+LinkedIn: https://www.linkedin.com/in/jerryyga0/
 
 Email: jerryygao@gmail.com
 
