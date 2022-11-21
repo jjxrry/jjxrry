@@ -1,5 +1,7 @@
 Hi, I’m Jerry
+
 🎈 I’m interested in learning more about data structures/algorithms and all aspects of fullstack dev.
+
 👓 I’m currently learning Python, C/C++, JS/TS.
 
 Currently looking for internship opportunities:
