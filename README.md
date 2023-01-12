@@ -1,6 +1,6 @@
 Hi, I’m Jerry
 
-🎈 I’m interested in learning more about data structures/algorithms and all aspects of fullstack dev.
+🎈 Interested in cool design, looking for inspiration and cool projects to master front end development.
 
 👓 I’m currently learning Python, JavaScript/TypeScript, React, and HTML/CSS.
 
