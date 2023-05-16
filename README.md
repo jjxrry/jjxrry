@@ -1,6 +1,6 @@
 Hi, I’m Jerry
 
-🎈 Interested in cool design, looking for inspiration and cool projects to master front end development.
+🎈 Interested in cool design, looking for inspiration and cool projects to advance my skills in software development.
 
 👓 I’m currently learning Python, JavaScript/TypeScript, React, and HTML/CSS.
 
