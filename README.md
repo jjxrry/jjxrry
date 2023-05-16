@@ -10,7 +10,7 @@ Currently looking for internship opportunities:
 
 Email: jerryygao@gmail.com
 
-Discord: jxrry#7143
+Discord: golfcat#0420
 
 
 <!---
