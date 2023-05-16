@@ -7,6 +7,7 @@ Hi, I’m Jerry
 Currently looking for internship opportunities:
 
 [LinkedIn](https://www.linkedin.com/in/jerryyga0/)
+
 [Portfolio](https://portfolio-2023-bky9ak4z8-jjxrry.vercel.app/)
 
 Email: jerryygao@gmail.com
