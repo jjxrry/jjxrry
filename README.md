@@ -1,8 +1,8 @@
 Hi, I’m Jerry
 
-🎈 Interested in cool design, looking for inspiration and cool projects to advance my skills in software development.
+🎈 Interested in UX Design, Scripting, Data Structures/Algorithms, System Design, and Machine Learning, looking for inspiration and cool projects to advance my skills in software development
 
-👓 I’m currently learning Python, JavaScript/TypeScript, React, and HTML/CSS.
+👓 I’m currently learning Python, JavaScript/TypeScript, and React
 
 Currently looking for internship opportunities:
 
