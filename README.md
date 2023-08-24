@@ -1,6 +1,6 @@
 Hi, I’m Jerry
 
-🎈 Interested in UX Design, Scripting, Data Structures/Algorithms, System Design, and Machine Learning, looking for inspiration and cool projects to advance my skills in software development
+🎈 Interested in Web Development, Scripting, Data Structures/Algorithms, System Design, and Machine Learning, looking for inspiration and cool projects to advance my skills in software development
 
 👓 I’m currently learning Python, JavaScript/TypeScript, and React
 
@@ -12,7 +12,7 @@ Currently looking for internship opportunities:
 
 Email: jerryygao@gmail.com
 
-Discord: golfcat#0420
+Discord: golfcat
 
 
 <!---
