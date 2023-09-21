@@ -2,7 +2,7 @@ Hi, I’m Jerry
 
 🎈 Interested in Web Development, Scripting, Data Structures/Algorithms, System Design, and Machine Learning, looking for inspiration and cool projects to advance my skills in software development
 
-👓 I’m currently learning Python, JavaScript/TypeScript, and React
+👓 I’m currently learning Python, JavaScript/TypeScript, and Java
 
 Currently looking for internship opportunities:
 
