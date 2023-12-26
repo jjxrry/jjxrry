@@ -1,20 +1,20 @@
 hi there, you can call me dot or jerry
 
-🎈 I am currently a graduate student in computer science. i'm interested in web development, scripting, data structures/algorithms, system design, and machine learning, looking for inspiration and cool projects to advance my skills in software development
+🎈 i am currently a graduate student in computer science. i'm interested in web development, scripting, data structures/algorithms, system design, and machine learning, looking for inspiration and cool projects to advance my skills in software development
 
-👓 I’m currently working on a music streaming web application with a few "for-fun features"
+👓 i’m currently working on a music streaming web application with a few "for-fun features"
 
-I am currently looking for internship opportunities:
+i am currently looking for internship opportunities:
 
-[LinkedIn](https://www.linkedin.com/in/jerryyga0/)
+[linkedin](https://www.linkedin.com/in/jerryyga0/)
 
-[Portfolio](https://portfolio-2023-jjxrry.vercel.app/)
+[portfolio](https://portfolio-2023-jjxrry.vercel.app/)
 
-[Portfolio](https://twitter.com/dotslogs)
+[x](https://twitter.com/dotslogs)
 
-Email: jerryygao@gmail.com
+mmail: jerryygao@gmail.com
 
-Discord: golfcat
+discord: golfcat
 
 
 <!---
