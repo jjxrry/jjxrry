@@ -12,7 +12,7 @@ i am currently looking for internship opportunities:
 
 [x](https://twitter.com/dotslogs)
 
-mmail: jerryygao@gmail.com
+email: jerryygao@gmail.com
 
 discord: golfcat
 
