@@ -1,8 +1,6 @@
 hi there, you can call me dot or jerry
 
-🎈 i am currently a graduate student in computer science. i'm interested in web development, scripting, data structures/algorithms, system design, and machine learning, looking for inspiration and cool projects to advance my skills in software development
-
-👓 i’m currently working on a music streaming web application with a few "for-fun features"
+🎈 i am currently a graduate student in computer science. i'm interested in web development, scripting, web vulnerabilities, system design, and hci, looking for inspiration and cool projects to advance my skills in software development
 
 i am currently looking for internship opportunities:
 
