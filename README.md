@@ -4,7 +4,7 @@ i am currently a graduate student in computer science. i'm interested in web dev
 
 [linkedin](https://www.linkedin.com/in/jerryyga0/)
 
-[portfolio](https://gjerry.com/)
+[portfolio](https://www.gjerry.com/)
 
 [x](https://x.com/bourdainish)
 
