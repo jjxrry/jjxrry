@@ -1,6 +1,8 @@
 hi there, my name is jerry
 
-i am currently a graduate student in computer science. i'm interested in web development, scripting, web vulnerabilities, system design, and hci, looking for inspiration and cool projects to advance my skills in software development
+i am currently a graduate student in computer science. i'm interested in all things computer science, design, and math.
+i'm currently deep in interview prep and focusing on graduation, with a couple of fun side projects (half-baked) on the way.
+looking to narrow my skill gap :)
 
 [linkedin](https://www.linkedin.com/in/jerryyga0/)
 
